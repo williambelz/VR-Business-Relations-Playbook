@@ -59,8 +59,6 @@ An integrated team approach is crucial. Here’s how to structure your efforts f
 
 ## Section 3: Tools and Resources
 
-## Section 3: Tools and Resources
-
 This section contains links to practical resources, external tools, and downloadable templates to support our business relations efforts.
 
 * **[Tools and Templates](./Tools/Using-External-Tools.md)**: Practical guides and templates for implementing new tools and strategies in our workflow.
