@@ -59,7 +59,7 @@ An integrated team approach is crucial. Here’s how to structure your efforts f
 
 ## Section 3: Tools and Resources
 
-This section will contain links to practical resources and downloadable templates.
+This section contains links to practical resources and downloadable templates.
 
 * [Tools](./Tools/)
 * [Resources](./Resources/)
