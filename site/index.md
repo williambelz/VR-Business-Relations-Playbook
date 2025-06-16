@@ -62,4 +62,5 @@ An integrated team approach is crucial. Here’s how to structure your efforts f
 This section contains links to practical resources, external tools, and downloadable templates to support our business relations efforts.
 
 * **[Tools and Templates](./Tools/Using-External-Tools.md)**: Practical guides and templates for implementing new tools and strategies in our workflow.
+* **[Three Pillars for VR Business Relations](../docs/Three-Pillars.md)**: Describes the Empathy Engine, Failure Fuel, Kaizen Catalyst, and the newly added Shepherd's Compass approach.
 * **[External Resources and Repositories](./Resources/External-Resources.md)**: A curated list of external websites, GitHub projects, and articles that align with our mission.
