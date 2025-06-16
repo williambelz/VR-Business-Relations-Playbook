@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" aria-labelledby="title" role="img">
+  <title>Remote Work</title>
+  <rect width="120" height="80" fill="#4CAF50"/>
+  <rect x="10" y="20" width="100" height="60" fill="#fff"/>
+  <polyline points="10,20 60,5 110,20" fill="#4CAF50"/>
+</svg>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to main content</a>
+  <header>
+    <img src="/assets/images/hero.svg" alt="VR Business Relations logo" role="img" />
+  </header>
+  <main id="content">
+    {{ content }}
+  </main>
+  <footer>
+    <p>© {{ site.time | date: '%Y' }} VR Business Relations</p>
+  </footer>
+</body>
+</html>
