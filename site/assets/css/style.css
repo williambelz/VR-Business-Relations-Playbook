@@ -11,6 +11,13 @@ header {
   color: white;
   padding: 1rem 2rem;
 }
+header .header-top,
+header nav,
+main,
+footer {
+  max-width: 960px;
+  margin: 0 auto;
+}
 header .header-top {
   display: flex;
   justify-content: space-between;
