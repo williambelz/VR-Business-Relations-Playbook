@@ -1,6 +1,4 @@
 # The Vocational Rehabilitation Business Relations Playbook
-> **Documentation has moved to the `docs/` directory.**
-
 
 Welcome to the VR Business Relations Playbook! This repository is a living document designed to equip Vocational Rehabilitation (VR) Outreach and Service Coordination teams with the latest strategies, ethical considerations, and practical tools to build robust and effective partnerships with the business community.
 
@@ -63,7 +61,5 @@ An integrated team approach is crucial. Here’s how to structure your efforts f
 
 This section contains links to practical resources, external tools, and downloadable templates to support our business relations efforts.
 
-* **[Tools and Templates](./docs/Tools/Using-External-Tools.md)**: Practical guides and templates for implementing new tools and strategies in our workflow.
-* **[External Resources and Repositories](./docs/Resources/External-Resources.md)**: A curated list of external websites, GitHub projects, and articles that align with our mission.
-
-Site content is located in the `site/` directory for deployment.
+* **[Tools and Templates](./Tools/Using-External-Tools.md)**: Practical guides and templates for implementing new tools and strategies in our workflow.
+* **[External Resources and Repositories](./Resources/External-Resources.md)**: A curated list of external websites, GitHub projects, and articles that align with our mission.
