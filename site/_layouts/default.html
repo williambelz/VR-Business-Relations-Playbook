@@ -9,7 +9,24 @@
 <body>
   <a class="skip-link" href="#content">Skip to main content</a>
   <header>
-    <img src="/assets/images/hero.svg" alt="VR Business Relations logo" role="img" />
+    <div class="header-top">
+      <div class="logo">
+        <img src="/assets/images/hero.svg" alt="VR Business Relations logo" role="img" />
+        <span class="site-name">VR Business Relations</span>
+      </div>
+      <form class="search" role="search">
+        <label for="search-input" class="sr-only">Search</label>
+        <input id="search-input" type="text" placeholder="Search..." />
+      </form>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/contact-us.html">Contact Us</a></li>
+        <li><a href="/what-is-business-relations.html">What is Business Relations?</a></li>
+        <li><a href="/business-benefits.html">Business Benefits</a></li>
+      </ul>
+    </nav>
   </header>
   <main id="content">
     {{ content }}
