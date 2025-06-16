@@ -1,3 +1,10 @@
+---
+layout: default
+title: VR Business Relations Playbook
+---
+
+![VR Business Relations](assets/images/hero.svg)
+
 # The Vocational Rehabilitation Business Relations Playbook
 
 Welcome to the VR Business Relations Playbook! This repository is a living document designed to equip Vocational Rehabilitation (VR) Outreach and Service Coordination teams with the latest strategies, ethical considerations, and practical tools to build robust and effective partnerships with the business community.
@@ -19,12 +26,15 @@ The world of work is rapidly changing. An effective VR team must understand thes
 ### Key Trends:
 
 * **The Rise of AI and Automation:** Businesses are increasingly using AI in hiring (e.g., resume screeners, applicant tracking systems).
+![AI Automation](assets/images/ai.svg)
     * **Intricacy:** These systems can contain biases that inadvertently screen out qualified candidates with disabilities.
     * **Opportunity:** VR teams can act as consultants to businesses on making their AI hiring tools more inclusive and accessible.
 * **The Hybrid and Remote Work Revolution:** The increase in remote work opens up national job markets for individuals with disabilities who may have geographical or transportation barriers.
+![Remote Work](assets/images/remote_work.svg)
     * **Intricacy:** Requires a focus on digital literacy, access to technology, and ensuring remote work tools are accessible.
     * **Opportunity:** VR can source talent from a wider pool and offer businesses a diverse, nationwide talent pipeline.
 * **Increased Corporate Focus on Diversity, Equity, and Inclusion (DEI):** Many companies have public DEI goals and are actively seeking to diversify their workforce.
+![Inclusive Workforce](assets/images/dei.svg)
     * **Intricacy:** Businesses often don't know *how* to effectively recruit, hire, and retain individuals with disabilities.
     * **Opportunity:** VR is the subject matter expert. We can move beyond "hiring someone with a disability is the right thing to do" to "we are the solution to your DEI talent goals."
 
