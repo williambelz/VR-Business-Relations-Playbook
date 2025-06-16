@@ -9,42 +9,33 @@ body {
 header {
   background-color: #013A63;
   color: white;
-  padding: 1rem 2rem;
+  padding: 1rem 0;
 }
-header .header-top,
+header .logo-centered,
 header nav,
 main,
 footer {
   max-width: 960px;
   margin: 0 auto;
 }
-header .header-top {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
+header .logo-centered {
+  text-align: center;
+  margin-bottom: 0.5rem;
 }
-header .logo {
-  display: flex;
-  align-items: center;
-}
-header .logo img {
-  height: 50px;
-  margin-right: 0.5rem;
+header .logo-centered img {
+  height: 40px;
 }
 header nav ul {
   list-style: none;
   padding: 0;
   margin: 0;
   display: flex;
+  justify-content: center;
   gap: 1rem;
 }
 header nav a {
   color: white;
   text-decoration: none;
-}
-header .search input {
-  padding: 0.25rem;
 }
 .skip-link {
   position: absolute;
